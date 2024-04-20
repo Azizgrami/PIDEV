@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/util/DataSource.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/categoryName.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/panier.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/PanierController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/AfficherController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/StatprodparcatController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/services/ServicecategoryName.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/delate.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/NewFXMain.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/ProductCategoryRepository.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/AdminController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/services/ServiceProductCategory.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/services/ServicePanier.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/choosed.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/folder/styyyle.css</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/ChoosedController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/statprodparcat.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/AjoutController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/DeleteController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/ecomerce.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/modifier.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/ProductCategory.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/admin.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/services/ProductService.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/EcommerceController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/afficher.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/prod.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/interfaceProduit/interfaceProduit.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/Product.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/Panier.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/ProductRepository.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/Models/SportProject.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/ajout.fxml</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/ModifierController.java</file>
+            <file>file:/C:/Users/Ayedi/Desktop/sportProject/src/GUI/prod.java</file>
+        </group>
+    </open-files>
+</project-private>
